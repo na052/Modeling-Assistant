@@ -1,0 +1,2 @@
+# Modeling-Assistant
+これは安藤とAdityaによるAstah Proffessionalでのモデリングを支援するプラグインツールである。Adityaは作成したダイアグラムがメタモデルと
