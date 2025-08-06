@@ -9,3 +9,4 @@ Central Knowledge Graph(CKG)によるダイアグラムを横断する変更の�
 
 
 ### https://github.com/na052/Modeling-Assistant
+gitに追加する際のリンクである。
