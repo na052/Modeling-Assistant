@@ -7,3 +7,5 @@ Central Knowledge Graph(CKG)によるダイアグラムを横断する変更の�
 安藤が取り組んでるのは、匠メソッドを用いた「価値」をもとに行うモデリングを支援する、意味的整合性をLLMを用いた影響分析、修正提案の機能である。
 
 
+
+### https://github.com/na052/Modeling-Assistant
